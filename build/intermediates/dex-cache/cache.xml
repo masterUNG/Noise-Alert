@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2444b95cbe791c484f0d173bd350e986d5de1151">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/intermediates/pre-dexed/debug/classes_b10d3d80f6119795182ea7e8535048649f24d1c4.jar" />
+    </item>
+    <item
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5753639fdb5bc570d689d9da353274c72771c4c1">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/intermediates/pre-dexed/debug/instant-run_a719f7f5f3e98afb2e354443aa9a177681fb7a89.jar" />
+    </item>
+
+</items>

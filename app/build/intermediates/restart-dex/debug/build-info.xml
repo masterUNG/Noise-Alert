@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="18"
+    density="xhdpi"
+    format="6"
+    timestamp="11754656284254" >
+
+    <task
+        name="javac"
+        duration="103" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="11754656284254" >
+        <artifact
+            location="/Users/masterUNG/MyWorkspace/Workspace_Learning/NoiceAlert/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
